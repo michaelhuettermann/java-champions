@@ -1708,9 +1708,9 @@ members:
       residence: Germany
     city: Cologne
     social:
+      twitter: https://twitter.com/huettermann
       mastodon: https://social.cologne/@huettermann
       bluesky: https://bsky.app/profile/huettermann.bsky.social
-      twitter: https://twitter.com/huettermann
       linkedin: https://www.linkedin.com/in/huettermann/
       website: http://huettermann.net
     avatar: img/avatars/huettermann.png
