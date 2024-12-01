@@ -743,7 +743,7 @@ members:
       linkedin: https://www.linkedin.com/in/edeandrea/
       github: https://github.com/edeandrea
       speakerdeck: https://speakerdeck.com/edeandrea
-      bluesky: https://bsky.app/profile/ericdeandrea.dev
+      bluesky: https://bsky.app/profile/edeandrea.bsky.social
       sessionize: https://sessionize.com/edeandrea/
     avatar: img/avatars/edeandrea.jpg
   - name: Paul J. Deitel
@@ -1708,6 +1708,8 @@ members:
       residence: Germany
     city: Cologne
     social:
+      mastodon: https://social.cologne/@huettermann
+      bluesky: https://bsky.app/profile/huettermann.bsky.social
       twitter: https://twitter.com/huettermann
       linkedin: https://www.linkedin.com/in/huettermann/
       website: http://huettermann.net
@@ -2025,7 +2027,7 @@ members:
     social:
       twitter: https://twitter.com/glaforge
       mastodon: https://uwyn.net/@glaforge
-      bluesky: https://bsky.app/profile/glaforge.dev
+      bluesky: https://bsky.app/profile/glaforge.bsky.social
       linkedin: https://www.linkedin.com/in/glaforge/
       website: https://glaforge.dev/
       sessionize: https://sessionize.com/glaforge
