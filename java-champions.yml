@@ -289,7 +289,7 @@ members:
       github: https://github.com/jpbempel
       website: https://jpbempel.github.io/
       sessionize: https://sessionize.com/jean-philippe-bempel/
-      bluesky: https://bsky.app/profile/jpbempel.bsky.social‬
+      bluesky: https://bsky.app/profile/jpbempel.bsky.social
     avatar: img/avatars/jpbempel.png
   - name: Brian Benz
     year: 2020
@@ -556,6 +556,7 @@ members:
     social:
       twitter: https://twitter.com/ludoch
       linkedin: https://www.linkedin.com/in/ludovicchampenois/
+      bluesky: https://bsky.app/profile/ludoch.bsky.social
     avatar: img/avatars/ludoch.png
   - name: Stephen Chin
     year: 2009
@@ -1242,6 +1243,7 @@ members:
       twitter: https://twitter.com/JonathanGiles
       mastodon: https://hachyderm.io/@JonathanGiles
       linkedin: https://www.linkedin.com/in/jonathangiles/
+      bluesky: https://bsky.app/profile/jonathangiles.net
     avatar: img/avatars/JonathanGiles.png
   - name: Brian Goetz
     year: 2006
@@ -1451,7 +1453,7 @@ members:
     social:
       twitter: https://twitter.com/fguime
       linkedin: https://www.linkedin.com/in/fguime/
-      bluesky: https://bsky.app/profile/elderdust.bsky.social
+      bluesky: https://bsky.app/profile/fguime.bsky.social
     avatar: img/avatars/fguime.png
   - name: Chandra Guntur
     year: 2019
@@ -1686,7 +1688,7 @@ members:
       mastodon: https://foojay.social/@cayhorstmann
       github: https://github.com/cayhorstmann
       website: https://horstmann.com
-      bluesky: https://bsky.app/profile/cayhorstmann.bsky.social
+      bluesky: https://bsky.app/profile/horstmann.com
     avatar: img/avatars/cayhorstmann.png
   - name: Gerardo Horvilleur
     year: 2005
@@ -2007,7 +2009,7 @@ members:
     social:
       twitter: https://twitter.com/michaelkolling
       linkedin: https://www.linkedin.com/in/kolling/
-      bluesky: https://bsky.app/profile/michaelkolling.bsky.social
+      bluesky: https://bsky.app/profile/kolling.uk
     avatar: img/avatars/michaelkolling.png
   - name: Prof. Dierk König
     year: 2016
@@ -2905,7 +2907,7 @@ members:
       github: https://github.com/rokon12
       website: https://bazlur.ca/
       sessionize: https://sessionize.com/bazlur/
-      bluesky: https://bsky.app/profile/bazlur.bsky.social
+      bluesky: https://bsky.app/profile/bazlur.ca
     avatar: img/avatars/bazlur_rahman.png
   - name: Matt Raible
     year: 2016
@@ -3805,7 +3807,7 @@ members:
     social:
       twitter: https://twitter.com/BrianVerm
       mastodon: https://mastodon.social/@brianverm
-      bluesky: https://bsky.app/profile/brianverm.bsky.social
+      bluesky: https://bsky.app/profile/brianvermeer.nl
       linkedin: https://www.linkedin.com/in/brianvermeer/
       website: https://brianvermeer.nl
       sessionize: https://sessionize.com/brian-vermeer
